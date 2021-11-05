@@ -14,8 +14,10 @@ a {
 header {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
   width: 100%;
   justify-content: center;
+  align-items: center;
   border-bottom: 1px solid rgba(0, 0, 0, 0.493);
 }
 
